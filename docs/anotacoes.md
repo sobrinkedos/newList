@@ -1,0 +1,17 @@
+Supabase em riltons@gmail.com:
+Organization
+
+riltons@gmail.com's Org
+
+riltons@gmail.com's Org
+Project name: newList
+Database Password: 4o1cXfTg8kHFFEU4
+Project ID: xixrouxvfqnmbdpdkytg
+Project URL: https://xixrouxvfqnmbdpdkytg.supabase.co
+Project API Keys
+anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhpeHJvdXh2ZnFubWJkcGRreXRnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM0Njk3MDMsImV4cCI6MjA1OTA0NTcwM30.7v4HUcXqi7WRLYZ588xpKkwqQw05l8H0ixSpt8y6DuQ
+
+ervice_rolesecret: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhpeHJvdXh2ZnFubWJkcGRreXRnIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MzQ2OTcwMywiZXhwIjoyMDU5MDQ1NzAzfQ.jIexL7Mh2APU0ce58kRIqcKXinUb1q6C7qAvXzIrPpg
+
+
+
